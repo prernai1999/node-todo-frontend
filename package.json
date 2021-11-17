@@ -15,7 +15,7 @@
     "express",
     "Front-end"
   ],
-  "author": "Prerana Ingale<ingaleprerana30
+  "author": "Prerana Ingale<ingaleprerana30@gmaul.com>
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
